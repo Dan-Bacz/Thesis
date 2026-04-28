@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y \
     libfreetype6-dev \
     libwebp-dev \
     libzip-dev \
+    libxml2-dev \
     zip \
     unzip \
     git
