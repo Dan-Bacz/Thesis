@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+INSTALL.md
+README_RAILWAY.md
+
+# Debug files
+debug/
+setup/
+
+# Environment
+.env
+.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary
+temp/
+tmp/
